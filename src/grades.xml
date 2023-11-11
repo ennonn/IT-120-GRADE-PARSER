@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><grades>
+    <course>
+        <id>EEP 3</id>
+        <name>English Enhancement Program 3</name>
+        <grade>1.5</grade>
+    </course>
+    <course>
+        <id>PC</id>
+        <name>Purposive Communication</name>
+        <grade>1.5</grade>
+    </course>
+</grades>
